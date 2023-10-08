@@ -1,12 +1,13 @@
 {
   "dependencies": {
+    "@types/prompt-sync": "^4.2.1",
+    "prompt-sync": "^4.2.0",
     "typescript": "^5.2.2"
   },
   "name": "typescriptgamepoo",
   "description": "Estudar orientação objeto com typescript, fortalecer a lógica de programação e trabalhar com commit's",
   "version": "1.0.0",
   "main": "main.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
