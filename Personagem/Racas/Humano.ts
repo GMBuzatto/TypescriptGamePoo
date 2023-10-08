@@ -10,7 +10,7 @@ export class Humano extends Personagem {
     }
 
     protected setVida(): void {
-        this.vida = 10
+        this.vida = 20
     }
 
     protected setForca(): void {
@@ -18,7 +18,7 @@ export class Humano extends Personagem {
     }
 
     protected setDefesa(): void {
-        this.defesa = 3
+        this.defesa = 5
     }
 
 }

@@ -8,13 +8,13 @@ class Humano extends Personagem_1.Personagem {
         this._sobrenome = sobrenome;
     }
     setVida() {
-        this.vida = 10;
+        this.vida = 20;
     }
     setForca() {
         this.forca = 3;
     }
     setDefesa() {
-        this.defesa = 3;
+        this.defesa = 5;
     }
 }
 exports.Humano = Humano;
