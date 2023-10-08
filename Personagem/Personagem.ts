@@ -19,4 +19,5 @@ export abstract class Personagem {
     protected abstract setVida(): void
     protected abstract setForca(): void
     protected abstract setDefesa(): void
+    protected abstract showStatus(): string
 }
