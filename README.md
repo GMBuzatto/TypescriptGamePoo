@@ -1,2 +1,4 @@
 # TypescriptGamePoo
-Estudar orientação objeto com typescript, fortalecer a lógica de programação e trabalhar com commit's
+Estudar orientação objeto com typescript
+Fortalecer a lógica de programação
+Trabalhar com commit's
